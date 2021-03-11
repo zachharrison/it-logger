@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "1222 Wireless down",
-      "attention": true,
-      "tech": "Joe Smith",
-      "date": "2021-03-11T18:11:53.470Z",
-      "id": 1
-    },
-    {
       "message": "Changed network card in server 004",
       "attention": false,
       "tech": "Zach Harrison",
