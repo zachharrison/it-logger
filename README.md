@@ -1,6 +1,6 @@
 # ITLogger
 
-> React app to track IT department tasks and issues. Uses JSON-Server as a mock backend and create-react-app on the frontend.
+> React app to track IT department tasks and issues. Uses JSON-Server as a mock backend. The frontend was built with create-react-app, Redux, and Materialize.
 
 ## App allows users to CRUD both technicians and logs
 
