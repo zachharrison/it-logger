@@ -8,11 +8,18 @@
       "id": 2
     },
     {
-      "message": "Hard drive failed in workstation 001",
+      "id": 3,
+      "message": "Fixed hard drive on workstation 001",
+      "attention": false,
+      "tech": "Joe Smith",
+      "date": "2021-03-11T19:30:54.765Z"
+    },
+    {
+      "message": "1221 Wireless down",
       "attention": true,
-      "tech": "Sarah Wilson",
-      "date": "2021-03-11T18:12:58.419Z",
-      "id": 3
+      "tech": "Joe Smith",
+      "date": "2021-03-11T19:23:42.294Z",
+      "id": 4
     }
   ],
   "techs": [
