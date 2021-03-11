@@ -47,8 +47,8 @@
     },
     {
       "id": 4,
-      "firstname": "Bill",
-      "lastname": "Burr"
+      "firstName": "Bill",
+      "lastName": "Burr"
     }
   ]
 }
